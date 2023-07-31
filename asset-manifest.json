@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firebase-list-employees/static/css/main.d1644a83.css",
+    "main.js": "/firebase-list-employees/static/js/main.36919c84.js",
+    "static/js/787.60f9cd89.chunk.js": "/firebase-list-employees/static/js/787.60f9cd89.chunk.js",
+    "index.html": "/firebase-list-employees/index.html",
+    "main.d1644a83.css.map": "/firebase-list-employees/static/css/main.d1644a83.css.map",
+    "main.36919c84.js.map": "/firebase-list-employees/static/js/main.36919c84.js.map",
+    "787.60f9cd89.chunk.js.map": "/firebase-list-employees/static/js/787.60f9cd89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1644a83.css",
+    "static/js/main.36919c84.js"
+  ]
+}
